@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  background-color: whitesmoke;
+}
+
+.container {
+  align-items: center;
+  margin-top: 5rem;
+  width: 35rem;
+  height: 33rem;
+  padding: 1rem;
+  padding-left: 3rem;
+  background-color: white;
+  box-sizing: border-box;
+  box-shadow: black;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 10rem;
+}
+.first-btn {
+  width: 25rem;
+  background-color: #fcb1a6;
+  opacity: 0.5;
+  border: none;
+}
+.second-btn {
+  width: 25rem;
+  background-color: #090c9b;
+  border: none;
+}
+.email,
+.password {
+  width: 25rem;
+}
